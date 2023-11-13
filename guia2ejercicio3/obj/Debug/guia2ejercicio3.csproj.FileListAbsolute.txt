@@ -1,0 +1,7 @@
+C:\Users\gabri\source\repos\guia2ejercicio3\guia2ejercicio3\bin\Debug\guia2ejercicio3.exe.config
+C:\Users\gabri\source\repos\guia2ejercicio3\guia2ejercicio3\bin\Debug\guia2ejercicio3.exe
+C:\Users\gabri\source\repos\guia2ejercicio3\guia2ejercicio3\bin\Debug\guia2ejercicio3.pdb
+C:\Users\gabri\source\repos\guia2ejercicio3\guia2ejercicio3\obj\Debug\guia2ejercicio3.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\guia2ejercicio3\guia2ejercicio3\obj\Debug\guia2ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\guia2ejercicio3\guia2ejercicio3\obj\Debug\guia2ejercicio3.exe
+C:\Users\gabri\source\repos\guia2ejercicio3\guia2ejercicio3\obj\Debug\guia2ejercicio3.pdb
